@@ -18,7 +18,7 @@ const data = {
             image: '/images/p2.jpg',
             price: 250,
             countInStock: 20, 
-            rating: 4.0,
+            rating: 3.0,
             numReviews: 10,
             description: 'high quality product'
         },
